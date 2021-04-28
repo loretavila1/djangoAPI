@@ -1,4 +1,4 @@
-# djangoAPI
+# Instrucciones
 
 Instrucciones de uso: 
 1. Levantar el contenedor de la API abriendo la terminal dentro de la carpeta DjangoPython y ejecutar el comando "docker-compose up".
