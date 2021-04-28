@@ -7,9 +7,9 @@ Instrucciones de uso:
 
 3. Levantar el contenedor de la base de datos abriendo la terminal dentro de la carpeta db y ejecutar el comando "docker-compose up".
 
-4. Para ingresar al contenido de la base de datos, utilizar cualquier administrador de base de datos (HeidiSQL, Workbench, etc) y a cotinuación se deben ingresar las siguientes credenciales:
-usuario: mydbuser
-contraseña: mydbpassword
-puerto: 3306
+4. Para ingresar al contenido de la base de datos, utilizar cualquier administrador de base de datos (HeidiSQL, Workbench, etc) y a cotinuación se deben ingresar las siguientes credenciales: 
+- usuario: mydbuser
+- contraseña: mydbpassword
+- puerto: 3306
 
 5. Una vez realizado esto, con ayuda de Insomnia o PostMan, aplicar los métodos descritos en el documento RESTFul API References.pdf
