@@ -12,4 +12,6 @@ Instrucciones de uso:
 - contraseña: mydbpassword
 - puerto: 3306
 
+Nota: Como parte de los archivos solicitados, el respaldo de la base de datos se encuentra en la carpeta db en un archivo llamado respaldo.sql
+
 5. Una vez realizado esto, con ayuda de Insomnia o PostMan, aplicar los métodos descritos en el documento RESTFul API References.pdf
